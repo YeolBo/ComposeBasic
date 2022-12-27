@@ -99,6 +99,6 @@ fun MyComposableView(){
 @Composable
 fun DefaultPreview() {
     ComposeBasicTheme {
-        Greeting("썅년아")
+        Greeting("룰루랄라")
     }
 }
